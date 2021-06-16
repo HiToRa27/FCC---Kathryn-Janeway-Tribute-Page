@@ -1,0 +1,52 @@
+body {
+  max-width: 70%;
+  margin: 0 auto;
+  background: linear-gradient(45deg, rgba(62,7,144,1) 0%, rgba(38,29,48,1) 51%, rgba(2,2,3,1) 100%);
+  color: white;
+  font-size: 14;
+  font-family: "Lucida Console";
+  line-height: 1.5;
+  text-align: justify;
+}
+#main {
+   background-color: black;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   box-shadow: 0px 0px 10px 15px rgba(0,0,0,1);
+   }
+header {
+  text-align: center;
+}
+#title {
+  font-family: "Lucida Handwriting";
+  text-shadow: 3px 0px 3px #a639e6;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 30px;
+}
+figcaption {
+  background-color: inherit;
+  color: white;
+  font-size: 10px;
+  padding: 4px;
+  text-align: center;
+}
+#tribute-info {
+  margin: 5px 15px;
+}
+footer p {
+  margin: 15px 15px;
+}
+a {
+  color: #4111ba;
+ }
+a:hover {
+  color: #a639e6;
+ }
+
+
+
